@@ -2,7 +2,7 @@
 Part of the code comes from [CycleGAN Torch](https://github.com/junyanz/CycleGAN) and [SynSeg-Net](https://github.com/MASILab/SynSeg-Net).
 
 # Train
-- Train
+Train
 Fill in the 'train.py / get_data_split_from_file', then
 ```bash
 python train.py
